@@ -18,18 +18,29 @@ Aplikasi ini hanya berfokus pada input, view, sort, search, update dan delete da
 
 :three: Fitur
 -------------
-- [x] Insert : User dapat menginputkan banyak jumlah latihan yang dilakukan, sesuai dengan kategori latihan yang dipilih. Dan user pun dapat pula memilih semua kategori latihan dalam hari yang sama sesuai keinginan user.
+- [x] **Insert** : </br>User dapat menginputkan banyak jumlah latihan yang dilakukan, sesuai dengan kategori latihan yang dipilih. Dan user pun dapat pula memilih semua kategori latihan dalam hari yang sama sesuai keinginan user.
 
-- [x] View : User dapat menampilkan seluruh data latihan yang pernah diinputkan user sebelumnya.
+- [x] **View** : </br>User dapat menampilkan seluruh data latihan yang pernah diinputkan user sebelumnya.
 
-- [x] Sorting : User dapat mengurutkan data latihan yang pernah dilakukan berdasarkan: Push Up terbanyak, Sit Up terbanyak, Lari Zig-Zag terlama, Jongkok-Berdiri terlama, Lari Cepat tercepat, Sepeda Statis tercepat.
+- [x] **Sorting** : </br>User dapat mengurutkan data latihan yang pernah dilakukan berdasarkan: Push Up terbanyak, Sit Up terbanyak, Lari Zig-Zag terlama, Jongkok-Berdiri terlama, Lari Cepat tercepat, Sepeda Statis tercepat.
 
-- [x] Searching : User dapat mencari data latihan yang pernah dilakukan berdasarkan tanggal latihan yang dilakukan. Dan kemudian menampilkan data latihan tersebut. Setelah itu user diberi pilihan apakah data tersebut akan di-update, di-delete atau hanya ditampilkan pada layar saja (tidak dimanipulasi).
+- [x] **Searching** : </br>User dapat mencari data latihan yang pernah dilakukan berdasarkan tanggal latihan yang dilakukan. Dan kemudian menampilkan data latihan tersebut. Setelah itu user diberi pilihan apakah data tersebut akan di-update, di-delete atau hanya ditampilkan pada layar saja (tidak dimanipulasi).
 
-- [x] Update & Delete : User dapat mengupdate/mendelete data latihan hari-hari sebelumnya yang dirasa salah menginputkan karena kelalaian user.
+- [x] **Update & Delete** : </br>User dapat mengupdate/mendelete data latihan hari-hari sebelumnya yang dirasa salah menginputkan karena kelalaian user.
 
-- [x] Operasi File : Aplikasi ini tidak dapat menyimpan data secara permanan (data akan hilang saat aplikasi di close), yang menyebabkan ketika aplikasi dibuka lagi, data-data latihan yang telah user inputkan sebelumnya akan hilang.
+- [x] **Operasi File** : Aplikasi ini tidak dapat menyimpan data secara permanan (data akan hilang saat aplikasi di close), yang menyebabkan ketika aplikasi dibuka lagi, data-data latihan yang telah user inputkan sebelumnya akan hilang.
 
-:four: Screenshoot
+:four: Catatan
+--------------
+- User tidak boleh menginputkan tanggal yang sama, karena jelas dalam 1 minggu tanggal latihan pastilah berbeda-beda. Untuk bulan dan tahun, user diberi kebebasan untuk menginputkan, karena ini kondisional.
+- Dalam input data Latihan Kelincahan dan Kecepatan, inputan waktu berupa detik dan ketika program menampilkan ulang data latihan yang telah diinput, detik akan otomatis dikonversi menjadi menit.
+- Fitur Update bisa untuk mengupdate data latihan yang sebelumnya sudah ada (ditimpah) ataupun mengisi data latihan yang sebelumnya kosong, jadi ada jumlah latihannya.
+
+:five: Screenshoot
 ------------------
-<img src="SS.PNG" width="500">
+<img src="images/SS01.PNG" width="500">
+<img src="images/SS02.PNG" width="500">
+<img src="images/SS03.PNG" width="500">
+<img src="images/SS04.PNG" width="500">
+<img src="images/SS05.PNG" width="500">
+<img src="images/SS06.PNG" width="500">
