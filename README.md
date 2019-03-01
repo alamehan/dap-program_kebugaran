@@ -5,6 +5,7 @@
 * Nama Aplikasi : Aplikasi Latihan Kebugaran Mingguan
 * Mata Kuliah : Dasar Algoritma dan Pemrograman (DAP)
 * Bahasa Pemrograman : PASCAL
+* Software : Free Pascal
 * Platform : Desktop
 * Kontribusi Saya : Menyeluruh
 
