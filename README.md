@@ -18,17 +18,17 @@ Aplikasi ini hanya berfokus pada input, view, sort, search, update dan delete da
 
 :three: Fitur
 -------------
-- [x] **Insert** : </br>User dapat menginputkan banyak jumlah latihan yang dilakukan, sesuai dengan kategori latihan yang dipilih. Dan user pun dapat pula memilih semua kategori latihan dalam hari yang sama sesuai keinginan user.
+- [x] **Insert** :</br>User dapat menginputkan banyak jumlah latihan yang dilakukan, sesuai dengan kategori latihan yang dipilih. Dan user pun dapat pula memilih semua kategori latihan dalam hari yang sama sesuai keinginan user.
 
-- [x] **View** : </br>User dapat menampilkan seluruh data latihan yang pernah diinputkan user sebelumnya.
+- [x] **View** :</br>User dapat menampilkan seluruh data latihan yang pernah diinputkan user sebelumnya.
 
-- [x] **Sorting** : </br>User dapat mengurutkan data latihan yang pernah dilakukan berdasarkan: Push Up terbanyak, Sit Up terbanyak, Lari Zig-Zag terlama, Jongkok-Berdiri terlama, Lari Cepat tercepat, Sepeda Statis tercepat.
+- [x] **Sorting** :</br>User dapat mengurutkan data latihan yang pernah dilakukan berdasarkan: Push Up terbanyak, Sit Up terbanyak, Lari Zig-Zag terlama, Jongkok-Berdiri terlama, Lari Cepat tercepat, Sepeda Statis tercepat.
 
-- [x] **Searching** : </br>User dapat mencari data latihan yang pernah dilakukan berdasarkan tanggal latihan yang dilakukan. Dan kemudian menampilkan data latihan tersebut. Setelah itu user diberi pilihan apakah data tersebut akan di-update, di-delete atau hanya ditampilkan pada layar saja (tidak dimanipulasi).
+- [x] **Searching** :</br>User dapat mencari data latihan yang pernah dilakukan berdasarkan tanggal latihan yang dilakukan. Dan kemudian menampilkan data latihan tersebut. Setelah itu user diberi pilihan apakah data tersebut akan di-update, di-delete atau hanya ditampilkan pada layar saja (tidak dimanipulasi).
 
-- [x] **Update & Delete** : </br>User dapat mengupdate/mendelete data latihan hari-hari sebelumnya yang dirasa salah menginputkan karena kelalaian user.
+- [x] **Update & Delete** :</br>User dapat mengupdate/mendelete data latihan hari-hari sebelumnya yang dirasa salah menginputkan karena kelalaian user.
 
-- [x] **Operasi File** : Aplikasi ini tidak dapat menyimpan data secara permanan (data akan hilang saat aplikasi di close), yang menyebabkan ketika aplikasi dibuka lagi, data-data latihan yang telah user inputkan sebelumnya akan hilang.
+- [x] **Operasi File** :</br>Aplikasi ini tidak dapat menyimpan data secara permanan (data akan hilang saat aplikasi di close), yang menyebabkan ketika aplikasi dibuka lagi, data-data latihan yang telah user inputkan sebelumnya akan hilang.
 
 :four: Catatan
 --------------
@@ -38,9 +38,9 @@ Aplikasi ini hanya berfokus pada input, view, sort, search, update dan delete da
 
 :five: Screenshoot
 ------------------
-<img src="images/SS01.PNG" width="500">
-<img src="images/SS02.PNG" width="500">
-<img src="images/SS03.PNG" width="500">
-<img src="images/SS04.PNG" width="500">
-<img src="images/SS05.PNG" width="500">
-<img src="images/SS06.PNG" width="500">
+<img src="images/SS01.png" width="500">
+<img src="images/SS02.png" width="500">
+<img src="images/SS03.png" width="500">
+<img src="images/SS04.png" width="500">
+<img src="images/SS05.png" width="500">
+<img src="images/SS06.png" width="500">
